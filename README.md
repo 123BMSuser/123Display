@@ -1,6 +1,5 @@
 # 123Display
 Arduino based display of data coming from [123smartBMS](https://123electric.eu/).
-See 
 
 Hardware:
 - Arduino mega 2560 R3
