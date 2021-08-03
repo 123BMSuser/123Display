@@ -1,5 +1,6 @@
 # 123Display
-Arduino based display of data coming from 123smartBMS
+Arduino based display of data coming from [123smartBMS](https://123electric.eu/).
+See 
 
 Hardware:
 - Arduino mega 2560 R3
@@ -9,7 +10,13 @@ Hardware:
 - some resistors
 - 5V and 3.3V switching regulator R-78B5.0-1.5 and R-78B3.3-1.5
 
-Screen are choosen by touching the screen in the left or right quarter.
+Implementation for my electric car configuration:
+Three LiIon pouch cells parallel connected are one block. 
+35 blocks are serially connected.
+20 blocks are stored in the back battery box.
+15 blocks are in the front box.
+
+Screens are choosen by touching the screen in the left or right quarter.
 Thouching the middle area leads to main screen. 
 
 **Main Screen:**
